@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
-aaaaaaaa
-You can use the [editor on GitHub](https://github.com/liangying1026/liangying1026.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# 梁盈 Liang Ying<br>人工智慧工程師 AI Engineer
+## 個人介紹
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
+### 技能
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* 人工智慧應用
+  * 深度學習
+  * 機器學習模型
+* 深度學習框架
+  * Pytorch
+  * Keras
+* 擅長架構
+  * Attention Module
+  * GAN
+  * Resnet
+* 程式語言
+  * Python
+  * Matlab  
 
-```markdown
-Syntax highlighted code block
+### 專長
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+* 關鍵點檢測 Keypoint detection
+* 圖像生成 Image Generation
+* 圖像分類 Image Classification 
+* 圖像檢索 Image Retrieval
+## 我的作品
 
-1. Numbered
-2. List
+---
+### Hand Pose Estimation
+* 手部關節偵測
+  * Depth map 處理
+  * 3D關鍵點偵測
+* 手勢分類
+  * 3D向量計算
+  
+![](resuli.gif)    
+### Person Re-Identification
+- 行人偵測
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liangying1026/liangying1026.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- 特徵比對
+  - 特徵擷取深度神經網路
+  - 行人跟蹤演算法
