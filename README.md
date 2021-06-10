@@ -36,10 +36,13 @@
 #### 手勢分類
 * 3D向量計算
   
-![image](https://raw.githubusercontent.com/liangying1026/liangying1026.github.io/blob/main/handc.gif)    
+<img src="/handc.gif"/>
+
 ### Person Re-Identification
 #### 行人偵測
 
 #### 特徵比對
 - 特徵擷取深度神經網路
 - 行人跟蹤演算法
+
+<img src="/terrace1-c1.gif"/>
