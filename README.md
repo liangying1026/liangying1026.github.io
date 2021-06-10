@@ -30,16 +30,16 @@
 
 ---
 ### Hand Pose Estimation
-* 手部關節偵測
-  * Depth map 處理
-  * 3D關鍵點偵測
-* 手勢分類
-  * 3D向量計算
+#### 手部關節偵測
+* Depth map 處理
+* 3D關鍵點偵測
+#### 手勢分類
+* 3D向量計算
   
-![](resuli.gif)    
+![image](https://github.com/liangying1026/liangying1026.github.io/blob/main/result.gif)    
 ### Person Re-Identification
-- 行人偵測
+#### 行人偵測
 
-- 特徵比對
-  - 特徵擷取深度神經網路
-  - 行人跟蹤演算法
+#### 特徵比對
+- 特徵擷取深度神經網路
+- 行人跟蹤演算法
