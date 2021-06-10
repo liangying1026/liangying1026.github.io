@@ -36,7 +36,7 @@
 #### 手勢分類
 * 3D向量計算
   
-![image](https://github.com/liangying1026/liangying1026.github.io/blob/main/result.gif)    
+![image](https://raw.githubusercontent.com/liangying1026/liangying1026.github.io/blob/main/handc.gif)    
 ### Person Re-Identification
 #### 行人偵測
 
