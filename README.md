@@ -1,4 +1,6 @@
-# 梁盈 Liang Ying<br>人工智慧工程師 AI Engineer
+# 梁盈 Liang Ying
+## *人工智慧工程師 AI Engineer*
+
 ## 個人介紹
 
 ---
@@ -19,13 +21,14 @@
   * Python
   * Matlab  
 
-### 專長
+### 專案
+- [Hand Pose Estimation](###Hand Pose Estimation)
+- [Person Re-Identification](###Person Re-Identification)
 
 
-* 關鍵點檢測 Keypoint detection
-* 圖像生成 Image Generation
-* 圖像分類 Image Classification 
-* 圖像檢索 Image Retrieval
+
+<br>
+
 ## 我的作品
 
 ---
@@ -37,6 +40,8 @@
 * 3D向量計算
   
 <img src="/handc.gif"/>
+
+<br>
 
 ### Person Re-Identification
 #### 行人偵測
