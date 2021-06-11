@@ -3,7 +3,7 @@
 
 ## 個人介紹
 
----
+
 ### 技能
 
 
@@ -22,8 +22,8 @@
   * Matlab  
 
 ### 專案
-- [Hand Pose Estimation](###Hand Pose Estimation)
-- [Person Re-Identification](###Person Re-Identification)
+- [Hand Pose Estimation](#Hand Pose Estimation)
+- [Person Re-Identification](#Person Re-Identification)
 
 
 
@@ -31,7 +31,7 @@
 
 ## 我的作品
 
----
+
 ### Hand Pose Estimation
 #### 手部關節偵測
 * Depth map 處理
