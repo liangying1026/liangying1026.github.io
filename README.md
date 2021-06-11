@@ -32,7 +32,8 @@
 ### Hand Pose Estimation
 #### 手部關節偵測
 * Depth map 處理
-* 3D關鍵點偵測
+* 3D關鍵點偵測  
+
 #### 手勢分類
 * 3D向量計算
   
