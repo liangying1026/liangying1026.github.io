@@ -48,9 +48,12 @@
 
 ### Person Re-Identification
 #### 行人偵測
-
+- [YOLOv5](https://github.com/ultralytics/yolov5)
 #### 特徵比對
 - 特徵擷取深度神經網路
 - 行人跟蹤演算法
 
+<img src="/reidflow.gif"/>
+  
+#### 影片測試
 <img src="/terrace1-c1.gif"/>
