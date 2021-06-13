@@ -34,9 +34,14 @@
 * Depth map 處理
 * 3D關鍵點偵測  
 
+<img src="/depthmap2point.gif"/>
+
 #### 手勢分類
 * 3D向量計算
-  
+
+<img src="/gesture.gif"/>
+
+#### 即時預測
 <img src="/handc.gif"/>
 
 <br>
