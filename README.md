@@ -21,15 +21,15 @@
 <br>  
     
 ### 作品
-- [Hand Pose Estimation](#hand-pose-estimation)
-- [Person Re-Identification](#person-re-identification)
+- [3D手勢辨識](#3D手勢辨識)
+- [基於深度學習模型於前景注意力之行人重識別系統](#基於深度學習模型於前景注意力之行人重識別系統)
 
 <br>
 <br>
 
 ## 我的作品
 
-### Hand Pose Estimation
+### 3D手勢辨識
 ### 簡介
 ##### 大學畢業專題
 
@@ -145,6 +145,7 @@ Person Re-ID模型提取特徵和Database中所有圖的特徵比較後，進一
 * 從Database中找出目標
 
 <img src="/white.jpg"/>
+<br>
 <br>
 <img src="/yellow.jpg"/>
 
