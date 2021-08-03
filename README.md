@@ -31,7 +31,7 @@
 
 ### Hand Pose Estimation
 ### 簡介
-#####大學畢業專題
+####大學畢業專題
 
 **Depth map 處理, 3D關鍵點偵測, 3D向量計算**
 
