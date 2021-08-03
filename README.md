@@ -48,6 +48,7 @@
 
 <img src="/depthmap2point.gif"/>
 <br>
+<br>
 
 ---
 
@@ -58,6 +59,7 @@
 
 <img src="/gesture.gif"/>
 <br>
+<br>
 
 ---
 
@@ -66,6 +68,11 @@
 
 [Top](#梁盈-liang-ying)
 <br>
+
+<br>
+<br>
+
+---
 
 ### 基於深度學習模型於前景注意力之行人重識別系統
 ### 簡介
@@ -83,6 +90,10 @@
 #### Person Re-ID & 前景注意力
 使用ResNet-50作為backbone的網路，加上Attention Module增加行人的重要特徵權重，依據搜索條件選擇是否加上語意分割模型
 
+<br>
+<br>
+
+---
 
 #### 應用1-行人跟蹤
 
@@ -108,6 +119,11 @@
 
 <img src="/terrace1-c1.gif"/>
 
+<br>
+<br>
+
+---
+
 #### 應用2-Database搜尋
 
 **行人偵測, Person Re-ID, 語意分割, 特徵比對**
@@ -128,10 +144,8 @@ Person Re-ID模型提取特徵和Database中所有圖的特徵比較後，進一
 * 單人追蹤
 * 從Database中找出目標
 
-##### 測試
-
-<img src="/white.png"/>
-
-<img src="/yellow.png"/>
+<img src="/white.jpg"/>
+<br>
+<img src="/yellow.jpg"/>
 
 [Top](#梁盈-liang-ying)
