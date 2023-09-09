@@ -1,11 +1,11 @@
 # 梁盈 Liang Ying
-## *人工智慧工程師 AI Engineer*
+## *軟體工程師 Software Engineer*
 
 ## 個人介紹
 
 
 ### 技能
-* 人工智慧應用a
+* 人工智慧應用
   * 深度學習
   * 機器學習模型
 * 深度學習框架
@@ -18,6 +18,12 @@
 * 程式語言
   * Python
   * Matlab  
+  * C++
+  * C
+* 工具
+  * Qt
+  * Git
+  * Pycharm
 <br>  
     
 ### 作品
@@ -27,7 +33,11 @@
 <br>
 <br>
 
-## 我的作品
+## 在學專案
+
+{% tabs project %}
+
+{% tab project hand %}
 
 ### 3D手勢辨識
 ### 簡介
@@ -50,7 +60,9 @@
 <br>
 <br>
 
----
+{% endtab %}
+
+{% tab project hand %}
 
 #### 手勢分類
 **3D向量計算**
@@ -148,5 +160,7 @@ Person Re-ID模型提取特徵和Database中所有圖的特徵比較後，進一
 <br>
 <br>
 <img src="/yellow.jpg"/>
+
+{% endtab %}
 
 [Top](#梁盈-liang-ying)
