@@ -5,28 +5,36 @@
 
 
 ### 技能
-* 人工智慧應用
-  * 深度學習
-  * 機器學習模型
-* 深度學習框架
-  * Pytorch
-  * Keras
-* 擅長架構
-  * Attention Module
-  * GAN
-  * Resnet
 * 程式語言
-  * Python
-  * Matlab  
   * C++
-  * C
+  * C 
+  * Matlab 
+  * Python
 * 工具
   * Qt
   * Git
   * Pycharm
+* 人工智慧應用
+  * 深度學習框架
+    * Pytorch
+    * Keras
+  * 擅長架構
+    * Attention Module
+    * GAN
+    * Resnet
 <br>  
-    
-### 作品
+### 工作經歷
+* GUI
+  * 開發使用者介面以呈現數據和繪圖。
+  * 與後端伺服器資料連結並根據使用者操作進行資料儲存和傳遞。
+  
+* Firmware
+  * 透過通訊介面獲得周邊裝置資訊
+  * 將獲得資訊以封包形式發送至GUI
+  
+<br>  
+
+### 在學專案
 - [3D手勢辨識](#3d手勢辨識)
 - [基於深度學習模型於前景注意力之行人重識別系統](#基於深度學習模型於前景注意力之行人重識別系統)
 
@@ -34,10 +42,6 @@
 <br>
 
 ## 在學專案
-
-{% tabs project %}
-
-{% tab project hand %}
 
 ### 3D手勢辨識
 ### 簡介
@@ -60,9 +64,7 @@
 <br>
 <br>
 
-{% endtab %}
-
-{% tab project hand %}
+---
 
 #### 手勢分類
 **3D向量計算**
@@ -160,7 +162,5 @@ Person Re-ID模型提取特徵和Database中所有圖的特徵比較後，進一
 <br>
 <br>
 <img src="/yellow.jpg"/>
-
-{% endtab %}
 
 [Top](#梁盈-liang-ying)
