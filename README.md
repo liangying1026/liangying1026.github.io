@@ -25,6 +25,53 @@
 <br>  
       
 ### 工作經歷
+
+```html
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <style>
+      .page {
+        display: none;
+      }
+    </style>
+  </head>
+  <body>
+    <nav>
+      <a href="#home">home</a> |
+      <a href="#list">list</a> |
+      <a href="#about">about</a>
+    </nav>
+    <div class="page home-page">I am homepage</div>
+    <div class="page list-page">I am list</div>
+    <div class="page about-page">About me </div>
+  </body>
+  <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+  <script>
+
+    function changePage(hash) {
+      $('.page').hide()
+      if (hash === '#home') {
+        $('.home-page').show()
+      } else if (hash === '#list') {
+        $('.list-page').show()
+      } else if (hash === '#about') {
+        $('.about-page').show()
+      }
+    }
+
+    // 初始化
+    changePage(location.hash)
+
+    // 每當 hash 變動的時候
+    window.addEventListener("hashchange", function() {
+      changePage(location.hash)
+    });
+
+  </script>
+</html>
+```
+
 * GUI
   * 開發使用者介面以呈現數據和繪圖。
   * 與後端伺服器資料連結並根據使用者操作進行資料儲存和傳遞。
