@@ -25,13 +25,16 @@
 <br>  
       
 ### 工作經歷
-{% tabs log %}
-{% tab log php %}
-```GUI
-* test
- ```
-{% endtab %}  
 
+{% tabs log %}
+
+{% tab log php %}
+```php
+var_dump('hello');
+```
+{% endtab %}
+
+  
   
 <br>  
 
@@ -61,7 +64,7 @@
 輸入用ResNet-50作為backbone的網路，用於回歸初始關節位置，因手掌關節和手指關節的活動範圍不同回歸複雜度也不同，把手掌關節回歸和手指關節回歸分為兩個分支，將來自初始特徵提取模塊的feature maps 輸入到不同分支中更多局部特徵，用作引導特徵提取的約束。
 
 
-<img src="/depthmap2point.gif"/>
+<img src="/images/depthmap2point.gif"/>
 <br>
 <br>
 
@@ -72,14 +75,14 @@
 
 通過測量兩個向量的夾角的餘弦值來度量兩個向量是否大致指向相同的方向，紫色和藍色為兩個向量，\theta為向量間夾角，得到餘弦相似度，設閥值，小於閥值判斷為彎曲，分別判斷五根手指是否彎曲。
 
-<img src="/gesture.gif"/>
+<img src="/images/gesture.gif"/>
 <br>
 <br>
 
 ---
 
 ### 即時預測
-<img src="/handc.gif"/>
+<img src="/images/handc.gif"/>
 
 [Top](#梁盈-liang-ying)
 <br>
@@ -122,7 +125,7 @@
 
 比對方式為計算特徵之間的餘弦相似性後每個特徵以相似性作為權重進行投票，取加權結果最高判斷為一樣ID，並在相似性都低於閥值時判斷為新的人，當多個結果判斷為同一ID時，取相對權重較高的的一方為該ID，較低的一方則取權重第二高ID，將其相似性與閥值進行比較，如高於閥值再次重複上述有多個相同結果時的算法，如低於閥值則判斷為新的人。
 
-<img src="/reidflow.gif"/>
+<img src="/images/reidflow.gif"/>
 <br>
 
 ##### 測試
@@ -132,7 +135,7 @@
 * 同時追蹤多人
 * frame by frame 擷取影片中行人進行特徵比對、賦予ID
 
-<img src="/terrace1-c1.gif"/>
+<img src="/images/terrace1-c1.gif"/>
 
 <br>
 <br>
@@ -149,7 +152,7 @@
 
 Person Re-ID模型提取特徵和Database中所有圖的特徵比較後，進一步使用語義分割模型得到的屬性來刪除具有不同屬性的圖像，屬性包括衣服的顏色和類型。
 
-<img src="/Retrieval.png"/>
+<img src="/images/Retrieval.png"/>
 
 ##### 測試
 
@@ -159,9 +162,9 @@ Person Re-ID模型提取特徵和Database中所有圖的特徵比較後，進一
 * 單人追蹤
 * 從Database中找出目標
 
-<img src="/white.jpg"/>
+<img src="/images/white.jpg"/>
 <br>
 <br>
-<img src="/yellow.jpg"/>
+<img src="/images/yellow.jpg"/>
 
 [Top](#梁盈-liang-ying)
