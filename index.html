@@ -9,3 +9,11 @@
     <br>
     <a class="next pagination__older btn btn-small btn-tertiary" href="project_2/README.md">基於深度學習模型於前景注意力之行人重識別系統 &rarr;</a>
 </nav>
+
+{% if paginator.previous_page %}
+<a class="previous pagination__newer btn btn-small btn-tertiary" href="{{ paginator.previous_page_path }}">&larr; 手勢辨識</a>
+{% endif %}
+<br>
+{% if paginator.next_page %}
+<a class="next pagination__older btn btn-small btn-tertiary" href="{{ paginator.next_page_path }}">基於深度學習模型於前景注意力之行人重識別系統 &rarr;</a>
+{% endif %}
