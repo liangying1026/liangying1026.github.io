@@ -1,4 +1,8 @@
-### 3D手勢辨識
+<nav class="pagination" role="navigation">
+    <a class="previous pagination__newer btn btn-small btn-tertiary" href="../"> 主頁</a>
+</nav>
+
+## 3D手勢辨識
 ### 簡介
 ##### 大學畢業專題
 

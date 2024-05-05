@@ -1,4 +1,8 @@
-### 信號偵蒐測向系統GUI
+<nav class="pagination" role="navigation">
+    <a class="previous pagination__newer btn btn-small btn-tertiary" href="../"> 主頁</a>
+</nav>
+
+## 信號偵蒐測向系統GUI
 ### 簡介
 
 **C++, Qt, 使用者介面開發, C, 嵌入式系統, FreeRTOS**
