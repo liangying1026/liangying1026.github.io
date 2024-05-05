@@ -14,6 +14,7 @@
 * 透過通訊介面(I2C)獲得周邊裝置資訊
 * 在FreeRTOS建立task將獲得資訊發送至GUI
 
+<br>
 <img src="/images/GUI.png"/>
 
 
