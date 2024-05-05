@@ -21,7 +21,7 @@
 <br>
 <br>
 <nav class="pagination" role="navigation">
-    <a class="previous pagination__newer btn btn-small btn-tertiary" href="\.."> &larr;&nbsp;back&nbsp;&nbsp;</a>
+    <a class="previous pagination__newer btn btn-small btn-tertiary" href="../"> &larr;&nbsp;back&nbsp;&nbsp;</a>
     <a class="previous pagination__newer btn btn-small btn-tertiary" href="#top"> &uarr;&nbsp;top&nbsp;</a>
 </nav>
 

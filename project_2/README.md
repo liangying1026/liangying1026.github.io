@@ -77,7 +77,7 @@ Person Re-ID模型提取特徵和Database中所有圖的特徵比較後，進一
 <br>
 <br>
 <nav class="pagination" role="navigation">
-    <a class="previous pagination__newer btn btn-small btn-tertiary" href="\.."> &larr;&nbsp;back&nbsp;&nbsp;</a>
+    <a class="previous pagination__newer btn btn-small btn-tertiary" href="../"> &larr;&nbsp;back&nbsp;&nbsp;</a>
     <a class="previous pagination__newer btn btn-small btn-tertiary" href="#top"> &uarr;&nbsp;top&nbsp;</a>
 </nav>
 
