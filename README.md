@@ -45,7 +45,7 @@
 ### 在學專案
 #### 3D手勢辨識
 
-<img src="/project_1/images/gesture.gif"/>
+<img src="/project_1/images/handc.gif"/>
 
 使用深度學習模型，深度相機捕捉深度圖作為輸入，預測手部關節點再透過關節點預測手勢達成即時的手勢辨識，並對預測方式進行調整比較準確率。
 
