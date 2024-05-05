@@ -2,7 +2,7 @@
 ### 簡介
 ##### 碩士論文
 
-**行人偵測, Person Re-ID, 特徵比對, 行人跟蹤演算法, 語意分割**
+**Python, Pytorch, 行人偵測, Person Re-ID, 特徵比對, 行人跟蹤演算法, 語意分割**
 
 現在為了安全監控、尋人或商家人流分析等目的監控攝影機隨處可見，由於相機分辨率和拍攝角度的緣故，拍攝到的畫面品質偏低通常無法有效使用人臉識別，這時Person Re-ID就是一個非常重要的技術，能使用品質偏低的畫面透過身型、顏色等其他特徵在跨攝影機中搜索目標人物，快速篩選可能目標減少人力和時間的消耗。 
 
@@ -73,4 +73,12 @@ Person Re-ID模型提取特徵和Database中所有圖的特徵比較後，進一
 <br>
 <img src="/images/yellow.jpg"/>
 
-[Top](#梁盈-liang-ying)
+<br>
+<br>
+<br>
+<nav class="pagination" role="navigation">
+    <a class="previous pagination__newer btn btn-small btn-tertiary" href="\.."> &larr;&nbsp;back&nbsp;&nbsp;</a>
+    <a class="previous pagination__newer btn btn-small btn-tertiary" href="#top"> &uarr;&nbsp;top&nbsp;</a>
+</nav>
+
+<br>

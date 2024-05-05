@@ -2,7 +2,7 @@
 ### 簡介
 ##### 大學畢業專題
 
-**Depth map 處理, 3D關鍵點偵測, 3D向量計算**
+**Python, Tensorflow, 關鍵點檢測**
 
 本專題希望對手勢進行即時的手部關節點預測及手勢分類，並對預測方式進行調整比較準確率，使用Kinect V2拍攝的深度圖作為輸入，即時顯示預測關節點和分類結果。
 #### 手部關節偵測
@@ -34,5 +34,13 @@
 
 ### 即時預測
 <img src="/images/handc.gif"/>
+
+<br>
+<br>
+<br>
+<nav class="pagination" role="navigation">
+    <a class="previous pagination__newer btn btn-small btn-tertiary" href="\.."> &larr;&nbsp;back&nbsp;&nbsp;</a>
+    <a class="previous pagination__newer btn btn-small btn-tertiary" href="#top"> &uarr;&nbsp;top&nbsp;</a>
+</nav>
 
 <br>
