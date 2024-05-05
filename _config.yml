@@ -1,1 +1,3 @@
-theme: jekyll-theme-slate
+plugins: [jekyll-paginate]
+paginate: 20 # 每页文章数
+paginate_path: "project_:num"
