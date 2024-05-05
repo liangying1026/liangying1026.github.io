@@ -1,6 +1,6 @@
 <ul>
     {% for post in paginator.posts %}
-    <li><a href="">{{ post.title }}</a></li>
+    <li><a href="https://liangying1026.github.io/">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
 
@@ -10,6 +10,6 @@
     {% endif %}
     <span class="page_num pagination__page-number">{{ paginator.page }} / {{ paginator.total_pages }}</span>
     {% if paginator.next_page %}
-    <a class="next pagination__older btn btn-small btn-tertiary" href="project_2/">下一页 &rarr;</a>
+    <a class="next pagination__older btn btn-small btn-tertiary" href="project_2">下一页 &rarr;</a>
     {% endif %}
 </nav>
