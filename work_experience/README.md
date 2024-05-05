@@ -15,7 +15,7 @@
 * 在FreeRTOS建立task將獲得資訊發送至GUI
 
 <br>
-<img src="/images/GUI.png"/>
+<img src="/work_experience/images/GUI.png"/>
 
 
 <br>
